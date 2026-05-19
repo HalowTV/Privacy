@@ -128,7 +128,7 @@
     <h2>8. Contact Us</h2>
     <div class="card">
       <p>Email: <a href="mailto:support@halowapp.store">support@halowapp.store</a></p>
-      <p>Website: <a href="https://halowapp.store" target="_blank">halowapp.store</a></p>
+      <p>Website: <a href="https://halowapp.store" target="_blank">https://github.com/HalowTV</a></p>
     </div>
 
     <p class="footer">
